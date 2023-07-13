@@ -1,0 +1,24 @@
+Hello all
+The human repsonsible & technology colophon
+team
+thanks
+technology colophon
+
+
+=======================================================
+setup rebas conflict 
+=========================
+<<<<<<< HEAD
+## 1.Adding changes before rebasing conflicts 
+
+
+Some silly chages from main branch 
+	1.Silly changes on main branch
+	2.just stuff for now, Not sure if we should replace this or nor .
+=======
+##1.Adding changes before rebasing conflicts 
+
+These changes are from the feature branch bigtrouble 
+	1.Lot of trouble 
+	2.just Noting but trouble 
+>>>>>>> a1056fa (feature brancg adding some trouble to text.tt file)
