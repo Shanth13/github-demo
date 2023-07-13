@@ -3,3 +3,10 @@ The human repsonsible & technology colophon
 team
 thanks
 technology colophon
+
+
+=======================================================
+setup rebas conflict 
+=========================
+1.Adding changes before rebasing conflicts 
+
