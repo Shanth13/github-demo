@@ -8,5 +8,9 @@ technology colophon
 =======================================================
 setup rebas conflict 
 =========================
-1.Adding changes before rebasing conflicts 
+## 1.Adding changes before rebasing conflicts 
 
+
+Some silly chages from main branch 
+	1.Silly changes on main branch
+	2.just stuff for now, Not sure if we should replace this or nor .
