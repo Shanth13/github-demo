@@ -17,3 +17,6 @@ Some silly chages from main branch
 	2.just stuff for now, Not sure if we should replace this or nor .=======These changes are from the feature branch bigtrouble 
 	1.Lot of trouble 
 	2.just Noting but trouble >>>>>>> .theirs
+	
+	
+	for repo thing we have to made some changes 
