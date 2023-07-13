@@ -17,4 +17,7 @@ This is a simple web project Deployment can be on any even local files system
 ##Hot to contribute 
 Please fork thei repository and then issue pull request 
 
+##copyright 
+git training all rights reserved.
+
 
