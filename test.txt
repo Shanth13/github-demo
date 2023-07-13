@@ -20,5 +20,10 @@ Some silly chages from main branch
 	
 	
 	for repo thing we have to made some changes 
+<<<<<<< HEAD
 	
 	changes1: git and git hub all rights reserved 
+=======
+
+	changes 2: Git Hub changes on demot of rebasing 
+>>>>>>> origin
