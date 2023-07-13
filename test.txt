@@ -27,3 +27,10 @@ Some silly chages from main branch
 
 	changes 2: Git Hub changes on demot of rebasing 
 >>>>>>> origin
+
+
+
+##stashing 
+change #1: simple example for stashing 
+change#2: addinig more important content here 
+
