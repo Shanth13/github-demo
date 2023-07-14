@@ -22,3 +22,7 @@ Please fork thei repository and then issue pull request
 git training all rights reserved.
 
 
+##stashing into a stash 
+this for stashing into a branch 
+
+

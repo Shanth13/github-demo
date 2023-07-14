@@ -35,3 +35,6 @@ change #1: simple example for stashing
 change#2: addinig more important content here 
 change#3: All my students 
 
+
+##stashing in to a branch 
+changes#1 this is simple example 
