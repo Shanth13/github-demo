@@ -38,3 +38,8 @@ change#3: All my students
 
 ##stashing in to a branch 
 changes#1 this is simple example 
+
+
+
+##Git tagging and compare two tagging
+	changes #12: 
